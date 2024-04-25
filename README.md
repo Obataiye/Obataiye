@@ -35,7 +35,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/obataiye-donaldson-8588ab118
+[linkedin]: https://www.linkedin.com/in/obataiye-donaldson-8588ab118
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
