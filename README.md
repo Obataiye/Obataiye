@@ -7,11 +7,11 @@
   - Used an online vulnerability database to access online vulerabilites  threat to networks and computers on the Internet.
 - <b>Penetration Testing Techniques </b>
   - Tested applications and operating systems for vulnerabilites.
-- <b></b>
-  - 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>Using VirusTotal Scan a File and a URL</b>
+  - Used vircus scanning tools to check for virus on files and networks.
+- <b> Identifying Different Cyber Attacks</b>
+  - distinguish Cyber attacks on files, operating systems,and networks.
+ Explore Various Sources of Threat Intelligence  
 
 <h2> 🤳 Connect with me:</h2>
 
