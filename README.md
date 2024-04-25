@@ -14,16 +14,16 @@
 - <b>Explore Various Sources of Threat Intelligence</b>
   - Used open source and close soures to obtain threat intelligence  of online treats using databases on websites.
 - <b> Application and Host Hardening Techniques</b>
-   -applied patches to application and to operating systems to keep them updated to prevent vitus , worms and trojans horses infecting various types of systems.
+   - Applied patches to application and to operating systems to keep them updated to prevent vitus , worms and trojans horses infecting various types of systems.
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+
+[youtube]: 
+
 [linkedin]: https://www.linkedin.com/in/obataiye-donaldson-8588ab118
 
 <!--
@@ -31,8 +31,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Lab work from DSDT
+- 🌱 I’m currently learning ... Cloud +
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
