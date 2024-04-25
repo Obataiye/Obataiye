@@ -11,7 +11,8 @@
   - Used vircus scanning tools to check for virus on files and networks.
 - <b> Identifying Different Cyber Attacks</b>
   - distinguish Cyber attacks on files, operating systems,and networks.
- Explore Various Sources of Threat Intelligence  
+- <b>Explore Various Sources of Threat Intelligence</b>
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
