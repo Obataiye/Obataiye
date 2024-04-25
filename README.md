@@ -12,9 +12,9 @@
 - <b> Identifying Different Cyber Attacks</b>
   - distinguish Cyber attacks on files, operating systems,and networks.
 - <b>Explore Various Sources of Threat Intelligence</b>
-  - 
-
-<h2> 🤳 Connect with me:</h2>
+  - Used open source and close soures to obtain threat intelligence  of online treats using databases on websites.
+- <b> Application and Host Hardening Techniques</b>
+   -applied patches to application and to operating systems to keep them updated to prevent vitus , worms and trojans horses infecting various types of systems.
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
